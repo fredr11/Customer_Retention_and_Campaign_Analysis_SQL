@@ -39,18 +39,6 @@ The brief: explore the dataset, segment users meaningfully, quantify churn risk,
 
 ---
 
-## Project Outcomes
-
-This analysis identified:
-
-- High-risk churn segments by age, region, and income
-- The retention advantage of multi-channel engagement
-- Outreach channels with the highest conversion rates
-- Mismatches between campaign delivery channels and service types
-- Three targeted recommendations to improve retention and campaign effectiveness
-
----
-
 ## Dataset Summary
 
 CareConnect Health's data spans 3,598 users across five linked tables:
