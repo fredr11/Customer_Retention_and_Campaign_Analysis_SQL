@@ -1,0 +1,31 @@
+Campaign_ID,OutreachType,OutreachDate,OutreachBudget,TargetSegment
+7000,SMS,7/2/25,4180.31,Chronic Care
+7001,Community Event,1/5/24,3604.62,General
+7002,Email,11/27/24,2269.94,Chronic Care
+7003,App Push,12/2/24,2000.24,Family Households
+7004,SMS,4/13/25,3548.94,High-Risk
+7005,App Push,11/30/24,1725.39,New Users
+7006,SMS,3/23/24,3364.81,New Users
+7007,Community Event,7/14/24,3148.8,Young Adults
+7008,SMS,4/15/24,3410,Inactive Users
+7009,App Push,10/14/24,4543.54,Inactive Users
+7010,Email,7/11/25,5125.97,Chronic Care
+7011,SMS,8/26/24,2461.87,New Users
+7012,Email,8/10/24,5874.55,Inactive Users
+7013,App Push,10/9/24,3227.12,Young Adults
+7014,SMS,4/11/24,9550.18,New Users
+7015,Social,5/31/25,2638.64,Family Households
+7016,SMS,2/9/25,1500.82,New Users
+7017,App Push,3/10/25,5758.91,Chronic Care
+7018,Email,8/1/24,4601.29,Young Adults
+7019,Social,6/19/24,7050.92,Family Households
+7020,Partner Referral,10/15/24,4316.95,Inactive Users
+7021,SMS,5/25/24,13187.24,Young Adults
+7022,Email,1/14/24,3281.68,Inactive Users
+7023,App Push,3/17/25,6473.46,Family Households
+7024,Email,6/7/25,2727.11,New Users
+7025,SMS,5/16/24,4771.79,New Users
+7026,Email,1/16/25,5286.5,Inactive Users
+7027,SMS,7/6/25,5755.49,Inactive Users
+7028,Community Event,3/26/25,5580.2,New Users
+7029,Email,5/22/25,613.88,New Users

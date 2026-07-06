@@ -1,0 +1,151 @@
+User_ID,Service_ID,ServiceStartDate,ServiceEndDate,ServiceFee,ServiceType,AccessChannel
+100484,500000,3/29/25,4/29/25,18.16,Follow-up Appointment,Direct Digital
+102485,500001,9/4/24,12/23/24,60.81,Subscription Benefit,Direct Digital
+102436,500002,2/17/24,4/1/24,2.17,Follow-up Appointment,Partner Plan
+102700,500003,7/9/24,,75.35,Telehealth Consultation,Partner Plan
+103481,500004,1/22/24,,3.82,Telehealth Consultation,Partner Plan
+101735,500005,6/11/25,,7.8,Preventive Screening,Direct Digital
+100493,500006,8/25/25,8/31/25,65.13,Medication Support,Partner Plan
+102484,500007,6/17/25,,6.71,Telehealth Consultation,Partner Plan
+101954,500008,5/10/25,,11.69,Telehealth Consultation,Community Program
+102903,500009,4/26/25,,2.94,Preventive Screening,Community Program
+102832,500010,10/14/24,,60.38,Preventive Screening,Direct Digital
+102615,500011,8/24/24,11/4/24,32,Subscription Benefit,Direct Digital
+101424,500012,2/18/24,3/29/24,7.37,Follow-up Appointment,Direct Digital
+101710,500013,7/28/25,,24.63,Preventive Screening,Direct Digital
+103284,500014,1/10/24,,21.53,Telehealth Consultation,Community Program
+101566,500015,6/16/24,8/12/24,43.01,Medication Support,Direct Digital
+102099,500016,9/18/24,,4.63,Preventive Screening,Partner Plan
+102437,500017,2/6/25,,43.43,Preventive Screening,Partner Plan
+100425,500018,8/31/25,,20.82,Preventive Screening,Direct Digital
+102743,500019,11/14/24,,56.71,Preventive Screening,Direct Digital
+100054,500020,5/11/25,,42.88,Telehealth Consultation,Pharmacy Partner
+103530,500021,9/23/24,,35.74,Vaccination,Partner Plan
+102037,500022,8/25/25,8/31/25,21.09,Follow-up Appointment,Direct Digital
+100608,500023,4/24/24,5/10/24,12.36,Follow-up Appointment,Direct Digital
+102796,500024,9/5/24,9/25/24,7.8,Medication Support,Community Program
+103021,500025,5/26/24,,39.9,Preventive Screening,Direct Digital
+100742,500026,6/11/24,8/8/24,1.97,Follow-up Appointment,Community Program
+100149,500027,5/15/25,6/29/25,9.74,Medication Support,Community Program
+101874,500028,3/9/25,,4.47,Vaccination,Community Program
+102289,500029,2/11/25,,92.88,Telehealth Consultation,Direct Digital
+100608,500030,2/23/24,6/26/24,2.44,Subscription Benefit,Partner Plan
+102014,500031,7/21/25,8/31/25,31.04,Subscription Benefit,Direct Digital
+101883,500032,7/29/25,,22.52,Vaccination,Direct Digital
+103093,500033,2/18/25,,109.92,Telehealth Consultation,Pharmacy Partner
+102919,500034,9/4/24,,20.67,Preventive Screening,Direct Digital
+100478,500035,2/7/24,,2.67,Vaccination,Community Program
+102519,500036,9/29/24,,115.93,Telehealth Consultation,Direct Digital
+101798,500037,3/11/24,,6.94,Preventive Screening,Direct Digital
+101678,500038,2/1/25,,92.03,Telehealth Consultation,Pharmacy Partner
+100586,500039,3/16/25,5/25/25,44.12,Subscription Benefit,Partner Plan
+102663,500040,2/14/24,,3.49,Preventive Screening,Community Program
+103108,500041,6/1/24,,5.56,Preventive Screening,Community Program
+100743,500042,1/29/25,7/16/25,40.38,Subscription Benefit,Pharmacy Partner
+100102,500043,5/31/24,,5.01,Preventive Screening,Partner Plan
+102174,500044,6/4/25,,9.69,Preventive Screening,Community Program
+103529,500045,9/4/24,,7.71,Telehealth Consultation,Partner Plan
+102419,500046,2/14/25,4/14/25,2.78,Subscription Benefit,Partner Plan
+100908,500047,3/29/25,,2.18,Preventive Screening,Partner Plan
+103124,500048,1/2/25,,12.55,Preventive Screening,Partner Plan
+101924,500049,1/24/25,,0.34,Preventive Screening,Partner Plan
+101823,500050,12/15/24,2/9/25,73.49,Medication Support,Pharmacy Partner
+100210,500051,4/28/24,,16.71,Vaccination,Direct Digital
+100224,500052,6/28/24,,0.72,Preventive Screening,Direct Digital
+102071,500053,6/29/25,7/18/25,3.65,Medication Support,Community Program
+102883,500054,8/2/24,,8.25,Vaccination,Community Program
+102684,500055,8/15/25,8/31/25,13.79,Medication Support,Pharmacy Partner
+103376,500056,12/16/24,,8.75,Preventive Screening,Community Program
+101798,500057,4/27/25,6/7/25,5.8,Follow-up Appointment,Community Program
+102214,500058,5/20/24,,33.44,Vaccination,Partner Plan
+102235,500059,4/27/24,8/9/24,28.1,Subscription Benefit,Direct Digital
+101360,500060,8/20/24,,41.38,Preventive Screening,Partner Plan
+100012,500061,4/28/25,,18.86,Preventive Screening,Partner Plan
+103003,500062,2/22/25,,1.74,Vaccination,Partner Plan
+100245,500063,11/13/24,,38.08,Vaccination,Direct Digital
+103443,500064,4/20/24,,35.6,Preventive Screening,Pharmacy Partner
+103018,500065,1/18/24,7/9/24,33.58,Subscription Benefit,Direct Digital
+100385,500066,3/19/24,,8.08,Preventive Screening,Community Program
+100446,500067,2/10/25,4/3/25,61.93,Medication Support,Partner Plan
+102627,500068,8/5/25,,120.43,Telehealth Consultation,Partner Plan
+101946,500069,8/17/25,,8.71,Preventive Screening,Community Program
+102319,500070,4/11/25,,2.91,Preventive Screening,Partner Plan
+101046,500071,9/19/24,,14.83,Preventive Screening,Direct Digital
+103162,500072,3/13/25,5/4/25,46.18,Medication Support,Partner Plan
+101943,500073,2/8/24,,84.34,Telehealth Consultation,Partner Plan
+102028,500074,8/2/24,,81.55,Telehealth Consultation,Direct Digital
+103561,500075,5/20/24,,41.88,Preventive Screening,Direct Digital
+102749,500076,8/16/25,,60.08,Telehealth Consultation,Partner Plan
+102456,500077,12/6/24,,24.64,Telehealth Consultation,Community Program
+103102,500078,7/25/25,8/31/25,32.79,Subscription Benefit,Partner Plan
+103563,500079,4/26/25,,100.94,Telehealth Consultation,Direct Digital
+102906,500080,3/22/25,,0.75,Vaccination,Direct Digital
+102881,500081,4/22/24,,46.54,Preventive Screening,Direct Digital
+100691,500082,2/17/24,,83.7,Telehealth Consultation,Direct Digital
+103125,500083,5/13/24,,75.32,Telehealth Consultation,Partner Plan
+103153,500084,5/17/25,,50.05,Telehealth Consultation,Direct Digital
+102132,500085,7/15/25,,120.6,Telehealth Consultation,Partner Plan
+102328,500086,3/1/25,,0.33,Preventive Screening,Partner Plan
+102224,500087,6/20/25,8/31/25,18.44,Subscription Benefit,Partner Plan
+101952,500088,2/15/24,,47.08,Preventive Screening,Direct Digital
+100662,500089,7/11/25,,6.81,Vaccination,Community Program
+102349,500090,3/6/24,,120.47,Telehealth Consultation,Partner Plan
+101358,500091,4/17/24,9/3/24,60.38,Subscription Benefit,Direct Digital
+101918,500092,5/20/25,,22.21,Preventive Screening,Direct Digital
+103227,500093,7/22/25,,101.91,Telehealth Consultation,Partner Plan
+100404,500094,4/6/24,,2.29,Preventive Screening,Direct Digital
+103429,500095,7/26/24,8/19/24,6.61,Follow-up Appointment,Community Program
+102037,500096,5/18/25,,34.02,Vaccination,Pharmacy Partner
+103411,500097,11/10/24,,103.65,Telehealth Consultation,Direct Digital
+100723,500098,9/3/24,,89.26,Telehealth Consultation,Direct Digital
+100200,500099,10/4/24,1/31/25,39.88,Subscription Benefit,Partner Plan
+102215,500100,6/27/24,9/23/24,53.59,Subscription Benefit,Partner Plan
+101884,500101,8/18/25,,73.22,Telehealth Consultation,Direct Digital
+102621,500102,11/16/24,,70.6,Telehealth Consultation,Partner Plan
+102144,500103,6/8/24,,123.84,Telehealth Consultation,Direct Digital
+101839,500104,6/29/25,,130.65,Telehealth Consultation,Partner Plan
+103234,500105,8/6/25,,81.55,Telehealth Consultation,Direct Digital
+101162,500106,2/8/24,,28.77,Preventive Screening,Direct Digital
+100979,500107,8/7/25,,9.7,Telehealth Consultation,Community Program
+102870,500108,8/12/25,8/31/25,56.98,Medication Support,Partner Plan
+101264,500109,7/12/25,,59.41,Preventive Screening,Pharmacy Partner
+102019,500110,3/27/24,,6.93,Preventive Screening,Direct Digital
+102190,500111,8/5/24,9/20/24,11.47,Follow-up Appointment,Direct Digital
+101064,500112,6/11/25,,5.71,Preventive Screening,Direct Digital
+101278,500113,8/16/24,,6.77,Telehealth Consultation,Partner Plan
+100144,500114,9/22/24,,39.82,Preventive Screening,Partner Plan
+101011,500115,5/4/24,,7.81,Preventive Screening,Direct Digital
+101172,500116,9/12/24,,29.47,Preventive Screening,Pharmacy Partner
+100060,500117,10/16/24,,0.17,Preventive Screening,Community Program
+102944,500118,9/5/24,,55.54,Preventive Screening,Partner Plan
+103171,500119,5/31/24,,33.87,Vaccination,Partner Plan
+100640,500120,2/23/24,5/24/24,39.71,Subscription Benefit,Direct Digital
+102158,500121,1/16/25,,50.85,Preventive Screening,Direct Digital
+101586,500122,2/8/24,,7.04,Vaccination,Partner Plan
+100464,500123,6/12/25,8/18/25,52.89,Subscription Benefit,Direct Digital
+100088,500124,2/14/24,,2.5,Preventive Screening,Direct Digital
+102372,500125,8/1/25,,15.83,Telehealth Consultation,Community Program
+100298,500126,12/3/24,,0.12,Preventive Screening,Partner Plan
+103192,500127,9/23/24,,39.63,Vaccination,Pharmacy Partner
+102818,500128,5/30/25,8/31/25,7.72,Subscription Benefit,Community Program
+102578,500129,9/19/24,12/8/24,25.08,Subscription Benefit,Direct Digital
+103015,500130,3/25/24,8/13/24,6.66,Subscription Benefit,Community Program
+100395,500131,11/9/24,,64.52,Preventive Screening,Direct Digital
+102234,500132,10/24/24,,54.85,Telehealth Consultation,Direct Digital
+100746,500133,7/9/25,,24.32,Preventive Screening,Direct Digital
+101859,500134,11/10/24,,0.66,Preventive Screening,Direct Digital
+101286,500135,2/17/24,3/10/24,8.87,Follow-up Appointment,Partner Plan
+100447,500136,7/25/24,,119.78,Telehealth Consultation,Partner Plan
+102619,500137,7/5/24,,4.11,Vaccination,Community Program
+101088,500138,5/16/24,,7.11,Preventive Screening,Partner Plan
+100449,500139,4/30/24,7/26/24,51.78,Subscription Benefit,Direct Digital
+103147,500140,2/18/24,,7.13,Vaccination,Community Program
+100488,500141,4/17/25,,116.11,Telehealth Consultation,Direct Digital
+100743,500142,8/29/24,9/26/24,3.22,Medication Support,Community Program
+100082,500143,8/18/24,,5.75,Preventive Screening,Community Program
+101854,500144,9/20/24,,38.3,Vaccination,Partner Plan
+102950,500145,8/10/25,,45.97,Telehealth Consultation,Partner Plan
+103045,500146,3/2/25,,15.02,Vaccination,Direct Digital
+102649,500147,8/19/25,,42.4,Vaccination,Pharmacy Partner
+101696,500148,12/31/24,,45.14,Telehealth Consultation,Direct Digital
+103183,500149,6/20/25,,35.14,Vaccination,Partner Plan
