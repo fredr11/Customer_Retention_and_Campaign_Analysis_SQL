@@ -22,7 +22,7 @@ This case study project analyzes user engagement, retention, and campaign perfor
 
 ### Tools
 - Google BigQuery (GoogleSQL)
-- Google Looker Studio
+- Google Data Studio
 
 ---
 
