@@ -136,7 +136,12 @@ For the full phase-by-phase reasoning behind each modeling decision, see [`docs/
 │   └── Methodology.md          # Phase-by-phase technical deep-dive
 │
 ├── data/
-│   └── README.md                # Dataset schema and access notes
+│   ├── data_dictionary.md
+│   ├── app_usage_sample.csv
+│   ├── campaign_response_sample.csv
+│   ├── careconnect_users_sample.csv
+│   ├── outreach_campaigns_sample.csv
+│   └── service_records_sample.csv
 │
 └── README.md
 ```
