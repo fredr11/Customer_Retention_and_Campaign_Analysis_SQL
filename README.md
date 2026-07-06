@@ -1,12 +1,28 @@
-# Customer Retention and Campaign Analytics
+# Customer Retention, Churn Risk & Campaign Attribution Analytics
 
 ## Overview
 
 This case study project analyzes user engagement, retention, and campaign performance for a social enterprise delivering preventive healthcare through a hybrid model of telehealth, a mobile app, and community outreach. Using BigQuery, I built RFM (Recency, Frequency, Monetary) segmentation, behavior-based churn risk flags, and outreach conversion analysis across five linked datasets to answer a concrete business question: **why are users dropping off, and how can this be addressed?**
 
-### Tools
+---
 
-Customer behavior analysis was carried out using Google BigQuery (GoogleSQL) and Google Looker Studio (visualization).
+## Skills & Tools
+
+### Analytics
+- RFM segmentation
+- Churn risk modeling
+- Campaign attribution analysis
+- Customer behavior analysis
+- Cross-segment analysis (age, income, region)
+
+### SQL
+- Advanced SQL (CTEs, window functions, ARRAY_AGG, percentile analysis)
+- Data quality validation
+- Multi-table joins and transformation logic
+
+### Tools
+- Google BigQuery (GoogleSQL)
+- Google Looker Studio
 
 ---
 
@@ -23,6 +39,18 @@ The brief: explore the dataset, segment users meaningfully, quantify churn risk,
 
 ---
 
+## Project Outcomes
+
+This analysis identified:
+
+- High-risk churn segments by age, region, and income
+- The retention advantage of multi-channel engagement
+- Outreach channels with the highest conversion rates
+- Mismatches between campaign delivery channels and service types
+- Three targeted recommendations to improve retention and campaign effectiveness
+
+---
+
 ## Dataset Summary
 
 CareConnect Health's data spans 3,598 users across five linked tables:
@@ -33,7 +61,7 @@ CareConnect Health's data spans 3,598 users across five linked tables:
 4. Outreach_Campaigns.csv
 5. Campaign_Response.csv
 
-A Data Dictionary and sample datasets are available in the [`data`](data/) folder.
+A data dictionary and sample datasets are available in the [`data`](data/) folder.
 
 ---
 
@@ -91,7 +119,7 @@ Conversion was defined as a user completing their first service within 30 days o
 
 ![Total Services Driven by Outreach Type](images/figure5_total_services_by_outreach_type.png)
 
-For the full phase-by-phase reasoning behind each modeling decision, see [`docs/Methodology.md`](docs/Methodology.md).
+For the full phase-by-phase reasoning behind each modeling decision, see [`docs/methodology.md`](docs/methodology.md).
 
 ---
 
@@ -145,25 +173,6 @@ For the full phase-by-phase reasoning behind each modeling decision, see [`docs/
 │
 └── README.md
 ```
-
----
-
-## Skills Demonstrated
-
-**SQL / Data Engineering**
-- Advanced SQL: CTEs, window functions, array aggregation, percentile-based thresholding
-- Data quality validation across multiple joined tables before analysis
-- Building parallel, purpose-specific metrics
-
-**Analytics & Business Translation**
-- RFM segmentation methodology
-- Behavior-based churn definition and risk flagging
-- Campaign attribution and channel-conversion analysis
-- Cross-segment analysis (region, income, age) with explicit handling of underrepresented subgroups
-
-**Communication**
-- Translating complex SQL logic into plain-language business findings
-- Recommendations directly traceable to specific query outputs
 
 ---
 
