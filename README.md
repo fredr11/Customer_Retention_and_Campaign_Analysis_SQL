@@ -79,7 +79,7 @@ The final churn risk flag combined both signals:
 |---|---|---|---|---|---|---|---|---|
 | Service Churn Risk | Yes | Yes | No | No | Yes | No | – | – |
 | App Churn Risk | No | Yes | No | Yes | – | – | Yes | No |
-| **Final Risk `Flag** | **No** | **Yes** | **No** | **No** | **Yes** | **No** | **Yes** | **No** |
+| **Final Risk Flag** | **No** | **Yes** | **No** | **No** | **Yes** | **No** | **Yes** | **No** |
 
 ### Outreach & Campaign Conversion Analysis
 
