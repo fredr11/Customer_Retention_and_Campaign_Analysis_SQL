@@ -133,7 +133,7 @@ For the full phase-by-phase reasoning behind each modeling decision, see [`docs/
 │   └── figure5_total_services_by_outreach_type.png
 │
 ├── docs/
-│   └── Methodology.md          # Phase-by-phase technical deep-dive
+│   └── methodology.md          # Phase-by-phase technical deep-dive
 │
 ├── data/
 │   ├── data_dictionary.md
@@ -172,3 +172,7 @@ For the full phase-by-phase reasoning behind each modeling decision, see [`docs/
 - Remote users and high-income earners were underrepresented in the dataset, limiting how confidently patterns can be generalized for those subgroups.
 - App usage data lacked a session-frequency field, which constrained the App RFM Frequency dimension to average session length rather than session count.
 - Churn logic here is rules-based; testing whether a supervised ML model materially improves on it — with privacy and fairness safeguards built in from the start — is the natural next step (see Recommendation 3).
+
+## Disclaimer
+
+This project was completed as part of postgraduate Business Analytics coursework and uses a healthcare scenario with adapted customer data.
