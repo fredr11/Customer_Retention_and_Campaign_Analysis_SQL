@@ -103,10 +103,6 @@ Conversion was defined as a user completing their first service within 30 days o
 
 ![Conversions by Outreach Type](images/figure3_conversions_by_outreach_type.png)
 
-![Conversion Rates — Preventive Screening, Vaccination, Follow-up](images/figure4_conversion_rates.png)
-
-![Total Services Driven by Outreach Type](images/figure5_total_services_by_outreach_type.png)
-
 For the full phase-by-phase reasoning behind each modeling decision, see [`docs/methodology.md`](docs/methodology.md).
 
 ---
@@ -144,9 +140,7 @@ For the full phase-by-phase reasoning behind each modeling decision, see [`docs/
 ├── images/
 │   ├── figure1_rfm_scores_service.png
 │   ├── figure2_rfm_scores_app.png
-│   ├── figure3_conversions_by_outreach_type.png
-│   ├── figure4_conversion_rates.png
-│   └── figure5_total_services_by_outreach_type.png
+│   └── figure3_conversions_by_outreach_type.png
 │
 ├── docs/
 │   └── methodology.md          # Phase-by-phase technical deep-dive
