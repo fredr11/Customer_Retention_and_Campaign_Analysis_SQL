@@ -129,22 +129,6 @@ For the full phase-by-phase reasoning behind each modeling decision, see [`docs/
 ## Repository Structure
 
 ```text
-├── sql/
-│   ├── 01_Data_Quality_Checks.sql
-│   ├── 02_Regional_Engagement_Analysis.sql
-│   ├── 03_Age_Segment_Analysis.sql
-│   ├── 04_RFM_Model.sql
-│   ├── 05_Churn_Model.sql
-│   └── 06_Outreach_Attribution.sql
-│
-├── images/
-│   ├── figure1_rfm_scores_service.png
-│   ├── figure2_rfm_scores_app.png
-│   └── figure3_conversions_by_outreach_type.png
-│
-├── docs/
-│   └── methodology.md          # Phase-by-phase technical deep-dive
-│
 ├── data/
 │   ├── data_dictionary.md
 │   ├── app_usage_sample.csv
@@ -152,6 +136,22 @@ For the full phase-by-phase reasoning behind each modeling decision, see [`docs/
 │   ├── careconnect_users_sample.csv
 │   ├── outreach_campaigns_sample.csv
 │   └── service_records_sample.csv
+│
+├── docs/
+│   └── methodology.md          # Phase-by-phase technical deep-dive
+│
+├── images/
+│   ├── figure1_rfm_scores_service.png
+│   ├── figure2_rfm_scores_app.png
+│   └── figure3_conversions_by_outreach_type.png
+│
+├── sql/
+│   ├── 01_Data_Quality_Checks.sql
+│   ├── 02_Regional_Engagement_Analysis.sql
+│   ├── 03_Age_Segment_Analysis.sql
+│   ├── 04_RFM_Model.sql
+│   ├── 05_Churn_Model.sql
+│   └── 06_Outreach_Attribution.sql
 │
 └── README.md
 ```
